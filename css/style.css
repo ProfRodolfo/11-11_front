@@ -62,3 +62,21 @@ textarea{
     height: 45px;
     line-height: 45px;
 }
+.form-body{
+    margin-bottom: 30px;
+}
+.form-title{
+    margin-bottom: 15px;
+}
+.form-body p{   
+    margin-bottom: 20px;
+}
+.required-field{
+    color: #d80835
+}
+.box-input{
+    margin-bottom: 35px;
+}
+.block{
+    display: block;
+}
